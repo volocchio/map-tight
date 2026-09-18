@@ -1,0 +1,12 @@
+services:
+  map-tight:
+    build: .
+    container_name: map-tight
+    ports:
+      - "127.0.0.1:8530:80"
+    networks:
+      - caddy-net
+    restart: unless-stopped
+networks:
+  caddy-net:
+    external: true
