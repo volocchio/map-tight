@@ -1,0 +1,685 @@
+{
+  "version": "2026-09-19",
+  "purpose": "MapTight border-history and political/cultural context pack",
+  "notes": [
+    "CPI values use Transparency International CPI 2025 where available; non-sovereign states/regions and microstates not covered reliably are null.",
+    "Entries are intentionally short for app UI; sources are included for later expansion and QA."
+  ],
+  "entries": [
+    {
+      "id": "france",
+      "name": "France",
+      "type": "country",
+      "border_history": [
+        "843 Treaty of Verdun split Charlemagne’s empire; western Francia became the long ancestor of France, not a neat modern nation-state.",
+        "1648 Peace of Westphalia and 1659 Treaty of the Pyrenees helped fix eastern/southern frontiers through dynastic war and diplomacy.",
+        "1871–1945 Alsace-Lorraine shifted between France and Germany after wars; the border there carries memories of annexation, occupation, and return.",
+        "Post-1945 European integration softened many hard borders via the EU and Schengen, while overseas territories keep France globally dispersed."
+      ],
+      "human_cost_tags": [
+        "empire",
+        "treaty",
+        "war",
+        "annexation",
+        "colonialism"
+      ],
+      "government_context": "Unitary semi-presidential republic; president and parliament share power, with strong central state traditions.",
+      "languages": "French is official; regional languages include Breton, Occitan, Basque, Corsican, Alsatian/Germanic varieties, Catalan, and overseas creoles.",
+      "corruption_context": {
+        "score": 66,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/France",
+        "https://history.state.gov/countries/france",
+        "https://www.elysee.fr/en/french-presidency/the-institutions-of-the-fifth-republic",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "type": "country",
+      "border_history": [
+        "1871 German unification joined many states under Prussian leadership after wars with Denmark, Austria, and France.",
+        "1919 Treaty of Versailles redrew borders after World War I, transferring territories and creating lasting grievances exploited by extremists.",
+        "1945 defeat of Nazi Germany led to occupation zones; 1949 created two German states, divided by Cold War frontiers.",
+        "1990 reunification settled postwar borders, including recognition of the Oder–Neisse line with Poland."
+      ],
+      "human_cost_tags": [
+        "war",
+        "treaty",
+        "partition",
+        "ethnic cleansing",
+        "empire"
+      ],
+      "government_context": "Federal parliamentary republic; chancellor leads government, president is largely ceremonial, Länder retain major powers.",
+      "languages": "German is official; recognized minority languages include Danish, Sorbian, Frisian, Romani, plus regional dialect continua such as Low German and Bavarian.",
+      "corruption_context": {
+        "score": 77,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/Germany",
+        "https://history.state.gov/countries/germany",
+        "https://www.bundesregierung.de/breg-en/federal-government",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "luxembourg",
+      "name": "Luxembourg",
+      "type": "country",
+      "border_history": [
+        "1839 Treaty of London split Luxembourg, ceding western Luxembourg to Belgium and leaving a smaller grand duchy.",
+        "1867 Treaty of London confirmed Luxembourg’s neutrality and independence after a crisis between France and Prussia.",
+        "World Wars I and II brought occupation despite neutrality, shaping a strong postwar pro-European identity.",
+        "Modern borders are small but deeply cross-border: daily commuting ties Luxembourg to Belgium, France, and Germany."
+      ],
+      "human_cost_tags": [
+        "treaty",
+        "occupation",
+        "great-power diplomacy",
+        "microstate"
+      ],
+      "government_context": "Constitutional monarchy and parliamentary democracy; grand duke is head of state, elected government exercises executive power.",
+      "languages": "Luxembourgish is national language; French and German are administrative/judicial languages; multilingualism is normal in public life.",
+      "corruption_context": {
+        "score": 78,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/Luxembourg",
+        "https://history.state.gov/countries/luxembourg",
+        "https://gouvernement.lu/en/systeme-politique.html",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "south-africa",
+      "name": "South Africa",
+      "type": "country",
+      "border_history": [
+        "1652 Dutch settlement at the Cape began settler expansion onto Khoekhoe, San, and later other African lands.",
+        "1806 British control of the Cape and 19th-century frontier wars reshaped landholding through conquest and dispossession.",
+        "1910 Union of South Africa joined British colonies and former Boer republics, excluding most Black South Africans from power.",
+        "1948–1994 apartheid hardened internal boundaries through Bantustans, pass laws, and forced removals rather than changing external borders."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "indigenous displacement",
+        "apartheid",
+        "conquest",
+        "settler colonialism"
+      ],
+      "government_context": "Constitutional parliamentary republic; president is elected by the National Assembly; provinces have devolved powers.",
+      "languages": "12 official languages including Zulu, Xhosa, Afrikaans, English, Sepedi, Setswana, Sesotho, Xitsonga, siSwati, Tshivenda, Ndebele, and South African Sign Language.",
+      "corruption_context": {
+        "score": 41,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/South-Africa",
+        "https://www.gov.za/about-sa/history",
+        "https://www.gov.za/about-sa/south-africas-people",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "united-states",
+      "name": "United States",
+      "type": "country",
+      "border_history": [
+        "1776–1783 independence from Britain created a republic on Atlantic seaboard lands already inhabited by Native nations.",
+        "1803 Louisiana Purchase and later treaties/purchases vastly expanded U.S. claims, often ahead of actual control.",
+        "1846–1848 U.S.–Mexico War and Treaty of Guadalupe Hidalgo transferred huge western territories to the United States.",
+        "19th-century removal, reservations, allotment, and military campaigns displaced Indigenous peoples while survey lines made state borders look deceptively clean."
+      ],
+      "human_cost_tags": [
+        "indigenous displacement",
+        "treaty",
+        "conquest",
+        "settler colonialism",
+        "survey line"
+      ],
+      "government_context": "Federal presidential constitutional republic; powers split among federal branches and states.",
+      "languages": "No federal official language; English dominates nationally, Spanish is widely spoken, and many Indigenous and immigrant languages remain important.",
+      "corruption_context": {
+        "score": 64,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/United-States",
+        "https://history.state.gov/milestones/1830-1860/indian-treaties",
+        "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "united-kingdom",
+      "name": "United Kingdom",
+      "type": "country",
+      "border_history": [
+        "1536–1543 Laws in Wales Acts incorporated Wales into the English legal state.",
+        "1707 Acts of Union joined England/Wales and Scotland into Great Britain through parliamentary union, not conquest alone.",
+        "1801 union with Ireland created the United Kingdom; 1921 partition left Northern Ireland in the UK and most of Ireland outside it.",
+        "Late-20th-century devolution gave Scotland, Wales, and Northern Ireland elected institutions without dissolving the UK state."
+      ],
+      "human_cost_tags": [
+        "union",
+        "partition",
+        "empire",
+        "devolution",
+        "treaty"
+      ],
+      "government_context": "Constitutional monarchy with parliamentary government; devolved administrations in Scotland, Wales, and Northern Ireland.",
+      "languages": "English dominates; Welsh has strong official status in Wales; Scottish Gaelic, Scots, Irish, Ulster Scots, and Cornish have varying recognition.",
+      "corruption_context": {
+        "score": 70,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/United-Kingdom",
+        "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/acts-of-union-1707/",
+        "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "type": "country",
+      "border_history": [
+        "1757–1858 East India Company rule expanded through war, alliance, and annexation before direct British Crown rule.",
+        "1947 Partition created India and Pakistan along hurried lines, causing mass displacement and communal violence.",
+        "1962 Sino-Indian War left disputed Himalayan borders unresolved in areas such as Aksai Chin and Arunachal Pradesh.",
+        "1971 Bangladesh’s independence changed India’s eastern neighborhood; the 2015 India–Bangladesh land-boundary agreement cleaned up enclaves peacefully."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "partition",
+        "border dispute",
+        "war",
+        "treaty"
+      ],
+      "government_context": "Federal parliamentary republic; prime minister leads government, president is constitutional head of state.",
+      "languages": "Hindi and English serve Union-level functions; constitution recognizes 22 scheduled languages, with many state and regional languages.",
+      "corruption_context": {
+        "score": 39,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/India",
+        "https://history.state.gov/milestones/1945-1952/india-pakistan",
+        "https://www.mea.gov.in/bilateral-documents.htm?dtl/25160/IndiaBangladesh+Land+Boundary+Agreement",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "bangladesh",
+      "name": "Bangladesh",
+      "type": "country",
+      "border_history": [
+        "1947 Partition made East Bengal/East Pakistan part of Pakistan despite being separated from West Pakistan by India.",
+        "1952 Language Movement made Bengali identity politically central and is remembered as a foundational struggle.",
+        "1971 Bangladesh Liberation War created an independent state after severe violence and mass displacement.",
+        "2015 India–Bangladesh land-boundary agreement exchanged enclaves and simplified one of the world’s strangest border patchworks."
+      ],
+      "human_cost_tags": [
+        "partition",
+        "language movement",
+        "civil war",
+        "mass displacement",
+        "treaty"
+      ],
+      "government_context": "Parliamentary republic; prime minister heads government, president is largely ceremonial; politics has been marked by intense party rivalry.",
+      "languages": "Bengali/Bangla is official and central to national identity; Indigenous and minority languages are spoken in the Chittagong Hill Tracts and elsewhere.",
+      "corruption_context": {
+        "score": 24,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/Bangladesh",
+        "https://history.state.gov/milestones/1969-1976/south-asia",
+        "https://www.unesco.org/en/days/mother-language",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "wyoming",
+      "name": "Wyoming",
+      "type": "state",
+      "border_history": [
+        "1868 Wyoming Territory was carved from parts of Dakota, Idaho, and Utah territories with straight survey-line borders.",
+        "1868 Fort Laramie Treaty recognized Lakota-related lands nearby, but U.S. expansion and later policy steadily constrained Native land bases.",
+        "1869 Wyoming granted women suffrage while still a territory, shaping its political identity before statehood.",
+        "1890 Wyoming became the 44th U.S. state with borders largely inherited from federal territorial surveying."
+      ],
+      "human_cost_tags": [
+        "survey line",
+        "indigenous displacement",
+        "treaty",
+        "territorial administration"
+      ],
+      "government_context": "U.S. state with elected governor, bicameral legislature, and judiciary under the U.S. federal system.",
+      "languages": "English dominates; Native languages with regional ties include Arapaho and Shoshone, alongside Spanish and other community languages.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/Wyoming-state",
+        "https://www.wyohistory.org/encyclopedia/wyoming-territory",
+        "https://www.archives.gov/milestone-documents/fort-laramie-treaty",
+        "https://www.census.gov/quickfacts/WY"
+      ]
+    },
+    {
+      "id": "tennessee",
+      "name": "Tennessee",
+      "type": "state",
+      "border_history": [
+        "1796 Tennessee became the 16th U.S. state from the Southwest Territory, on lands long inhabited by Cherokee, Chickasaw, and other peoples.",
+        "1818 Jackson Purchase extended western Tennessee claims after Chickasaw cession under U.S. pressure.",
+        "1830s Indian Removal forced many Cherokee and other Native people from the region toward Indian Territory.",
+        "1861–1865 Civil War split Tennessee politically and militarily; it was a major borderland between Union and Confederacy."
+      ],
+      "human_cost_tags": [
+        "indigenous displacement",
+        "treaty",
+        "civil war",
+        "settler colonialism"
+      ],
+      "government_context": "U.S. state with elected governor, bicameral General Assembly, and judiciary under the U.S. federal system.",
+      "languages": "English dominates; Appalachian and Southern dialects are culturally important; Spanish and Indigenous heritage languages are present.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/Tennessee",
+        "https://tennesseeencyclopedia.net/entries/jackson-purchase/",
+        "https://www.nps.gov/trte/index.htm",
+        "https://www.census.gov/quickfacts/TN"
+      ]
+    },
+    {
+      "id": "africa",
+      "name": "Africa",
+      "type": "region",
+      "border_history": [
+        "Precolonial Africa included empires, kingdoms, city-states, pastoral ranges, and trade zones rather than one border logic.",
+        "1884–1885 Berlin Conference symbolized European partition claims, mostly without African consent.",
+        "1950s–1970s decolonization kept many colonial borders under the Organization of African Unity principle of inherited frontiers to avoid wider wars.",
+        "Several borders remain politically sensitive where colonial lines cut through ethnic, linguistic, pastoral, or ecological regions."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "partition",
+        "empire",
+        "indigenous sovereignty",
+        "arbitrary borders"
+      ],
+      "government_context": "Continental region, not a single government; the African Union coordinates among sovereign states.",
+      "languages": "Extremely multilingual: Niger-Congo, Afro-Asiatic, Nilo-Saharan, Khoisan families, Arabic, Swahili, Hausa, Amharic, and colonial languages such as English, French, Portuguese.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/Africa",
+        "https://au.int/en/overview",
+        "https://history.state.gov/milestones/1880-1914/berlin-conference",
+        "https://www.un.org/africarenewal/magazine/may-2020/silencing-guns-africa"
+      ]
+    },
+    {
+      "id": "europe",
+      "name": "Europe",
+      "type": "region",
+      "border_history": [
+        "1648 Peace of Westphalia is often treated as a milestone in state sovereignty, though Europe’s borders kept shifting violently.",
+        "1815 Congress of Vienna redrew post-Napoleonic Europe around balance-of-power politics.",
+        "1919–1923 post-World War I settlements created or restored states while planting minority and border disputes.",
+        "Post-1945 and post-1989 integration, decolonization, and state breakups made Europe both border-softening and border-making."
+      ],
+      "human_cost_tags": [
+        "war",
+        "treaty",
+        "empire",
+        "partition",
+        "integration"
+      ],
+      "government_context": "Region, not a single state; the European Union is a supranational polity for many, but not all, European countries.",
+      "languages": "Indo-European languages dominate, with Uralic, Turkic, Basque, Maltese, Romani, and many minority/regional languages.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/Europe",
+        "https://european-union.europa.eu/principles-countries-history/history-eu_en",
+        "https://history.state.gov/milestones/1784-1800/congress-of-vienna",
+        "https://www.coe.int/en/web/minorities"
+      ]
+    },
+    {
+      "id": "asia",
+      "name": "Asia",
+      "type": "region",
+      "border_history": [
+        "Asian borders reflect ancient empires and trade zones, plus modern imperial, colonial, and Cold War lines.",
+        "19th–20th-century Russian, British, French, Dutch, Japanese, Qing/Republican/PRC, Ottoman, and other imperial projects left layered claims.",
+        "1945–1975 decolonization and Cold War wars created new states and divided states, including Korea, Vietnam for a time, India/Pakistan, and others.",
+        "Some of the world’s most militarized borders remain in Asia, including the Korean DMZ and parts of the India–Pakistan and India–China frontiers."
+      ],
+      "human_cost_tags": [
+        "empire",
+        "colonialism",
+        "partition",
+        "cold war",
+        "border dispute"
+      ],
+      "government_context": "Region, not a single government; includes republics, monarchies, one-party states, federations, and contested polities.",
+      "languages": "World’s largest linguistic diversity: Sino-Tibetan, Indo-European, Austronesian, Dravidian, Turkic, Japonic, Koreanic, Semitic, Tai-Kadai and many others.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/Asia",
+        "https://www.unescap.org/about/member-states",
+        "https://history.state.gov/milestones/1945-1952/asia-and-africa",
+        "https://www.cia.gov/the-world-factbook/"
+      ]
+    },
+    {
+      "id": "north-america",
+      "name": "North America",
+      "type": "region",
+      "border_history": [
+        "Indigenous nations and trade networks long predated European empires and modern borders.",
+        "1492 onward Spanish, French, British, Dutch, and later U.S. expansion layered colonial claims over Native sovereignty.",
+        "1783, 1818, 1848, and 1853 treaties helped fix U.S. borders with Britain/Canada and Mexico after war, purchase, and diplomacy.",
+        "Caribbean and Central American borders often reflect colonization, plantation economies, intervention, and independence movements."
+      ],
+      "human_cost_tags": [
+        "indigenous displacement",
+        "colonialism",
+        "treaty",
+        "conquest",
+        "plantation slavery"
+      ],
+      "government_context": "Region, not a single government; includes sovereign states, territories, federations, monarchies, and dependencies.",
+      "languages": "English, Spanish, and French are dominant state languages; Indigenous, creole, and immigrant languages remain central in many communities.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/North-America",
+        "https://www.britannica.com/event/Louisiana-Purchase",
+        "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+        "https://www.oas.org/en/member_states/default.asp"
+      ]
+    },
+    {
+      "id": "south-america",
+      "name": "South America",
+      "type": "region",
+      "border_history": [
+        "1494 Treaty of Tordesillas framed Iberian claims, later producing broad Portuguese Brazil vs Spanish America patterns.",
+        "1810s–1820s independence wars broke Spanish and Portuguese imperial rule but did not restore Indigenous sovereignty.",
+        "19th-century wars such as the War of the Pacific and Paraguayan War reshaped borders with major human costs.",
+        "Amazonian and Andean borders often followed colonial claims, river surveys, rubber/frontier economies, and later arbitration."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "empire",
+        "war",
+        "indigenous displacement",
+        "arbitration"
+      ],
+      "government_context": "Region, not a single government; most states are presidential republics, with varied federal/unitary systems.",
+      "languages": "Spanish and Portuguese dominate state life; Quechua, Aymara, Guarani and many Amazonian/Indigenous languages remain important.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/South-America",
+        "https://www.britannica.com/event/Treaty-of-Tordesillas",
+        "https://www.britannica.com/event/War-of-the-Pacific",
+        "https://www.oas.org/en/member_states/default.asp"
+      ]
+    },
+    {
+      "id": "antarctica",
+      "name": "Antarctica",
+      "type": "region",
+      "border_history": [
+        "1820s sightings and landings opened an era of exploration rather than Indigenous displacement; Antarctica had no native human population.",
+        "1908–1940s several states announced sector claims, many overlapping or unrecognized.",
+        "1959 Antarctic Treaty froze sovereignty disputes and reserved the continent for peaceful scientific cooperation.",
+        "1991 Madrid Protocol banned mineral resource activity except scientific research, reinforcing Antarctica as a governed commons rather than normal territory."
+      ],
+      "human_cost_tags": [
+        "sovereignty claims",
+        "treaty",
+        "scientific commons",
+        "resource governance"
+      ],
+      "government_context": "No sovereign government; Antarctic Treaty System governs activities and freezes territorial-claim disputes.",
+      "languages": "No native language community; station languages follow national programs, especially English, Spanish, Russian, French, Chinese, and others.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.ats.aq/e/antarctictreaty.html",
+        "https://www.ats.aq/e/protocol.html",
+        "https://www.britannica.com/place/Antarctica",
+        "https://www.nsf.gov/geo/opp/antarct/anttrty.jsp"
+      ]
+    },
+    {
+      "id": "middle-east",
+      "name": "Middle East",
+      "type": "region",
+      "border_history": [
+        "Ottoman imperial administration shaped much of the region before World War I, but borders were often provincial and flexible.",
+        "1916 Sykes–Picot and postwar mandates helped carve British and French zones, shaping Iraq, Syria, Lebanon, Jordan, and Palestine/Israel contexts.",
+        "1948 creation of Israel and the Arab–Israeli war produced armistice lines, refugee crises, and unresolved sovereignty disputes.",
+        "Oil concessions, dynastic states, wars, and external intervention have repeatedly hardened or contested borders, especially in the Gulf and Levant."
+      ],
+      "human_cost_tags": [
+        "empire",
+        "mandate",
+        "partition",
+        "refugees",
+        "war"
+      ],
+      "government_context": "Region, not a single government; includes monarchies, republics, occupied/disputed territories, and fragile states.",
+      "languages": "Arabic is most widespread; Persian, Turkish, Hebrew, Kurdish, Armenian, Aramaic/Syriac varieties and many minority languages are significant.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/Middle-East",
+        "https://history.state.gov/milestones/1914-1920/mandate-system",
+        "https://www.un.org/unispal/history/",
+        "https://www.cia.gov/the-world-factbook/"
+      ]
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "type": "country",
+      "border_history": [
+        "1494 Treaty of Tordesillas nominally split Iberian claims; Portuguese Brazil later expanded far west beyond that line.",
+        "Colonial bandeirante expeditions, missions, slavery, and frontier wars pushed Portuguese control into Indigenous territories.",
+        "1822 independence kept Brazil territorially unified under a monarchy, unlike Spanish America’s fragmentation.",
+        "1903 Treaty of Petrópolis transferred Acre from Bolivia to Brazil after conflict tied to rubber-frontier settlement."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "indigenous displacement",
+        "slavery",
+        "treaty",
+        "frontier war"
+      ],
+      "government_context": "Federal presidential republic with states and municipalities under a 1988 constitution.",
+      "languages": "Portuguese is official; many Indigenous languages and immigrant-community languages survive, though under pressure.",
+      "corruption_context": {
+        "score": 35,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/Brazil",
+        "https://history.state.gov/countries/brazil",
+        "https://www.gov.br/planalto/en/follow-the-government/constitution",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "nigeria",
+      "name": "Nigeria",
+      "type": "country",
+      "border_history": [
+        "Precolonial region included Hausa city-states, Kanem-Bornu links, Yoruba states, Igbo communities, Benin, Sokoto Caliphate, and many others.",
+        "1914 British amalgamation joined Northern and Southern Nigeria for colonial administration, creating a large state with deep regional diversity.",
+        "1960 independence kept colonial borders; federalism became a tool for managing ethnic, regional, and religious complexity.",
+        "1967–1970 Biafra war followed attempted secession and caused catastrophic civilian suffering, especially through famine."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "amalgamation",
+        "civil war",
+        "federalism",
+        "resource politics"
+      ],
+      "government_context": "Federal presidential republic; 36 states plus Federal Capital Territory.",
+      "languages": "English is official; Hausa, Yoruba, Igbo, Fulfulde, Kanuri, Tiv, Ibibio and hundreds of other languages are spoken.",
+      "corruption_context": {
+        "score": 26,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/Nigeria",
+        "https://history.state.gov/countries/nigeria",
+        "https://www.britannica.com/event/Nigerian-civil-war",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "type": "country",
+      "border_history": [
+        "1868 Meiji Restoration centralized state power and accelerated modern border-making from a feudal order.",
+        "1895 Treaty of Shimonoseki after war with Qing China gave Japan Taiwan and influence over Korea, beginning major overseas empire.",
+        "1905–1910 Japan expanded into Korea and southern Sakhalin; empire-building was tied to coercion and war.",
+        "1945 defeat ended the empire; postwar borders left disputes over the Kuril/Northern Territories, Takeshima/Dokdo, and Senkaku/Diaoyu."
+      ],
+      "human_cost_tags": [
+        "empire",
+        "war",
+        "annexation",
+        "occupation",
+        "border dispute"
+      ],
+      "government_context": "Constitutional monarchy with parliamentary cabinet government; emperor is symbolic head of state.",
+      "languages": "Japanese is dominant; Ryukyuan and Ainu languages have cultural recognition and revitalization efforts.",
+      "corruption_context": {
+        "score": 71,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/Japan",
+        "https://history.state.gov/countries/japan",
+        "https://japan.kantei.go.jp/constitution_and_government_of_japan/constitution_e.html",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "singapore",
+      "name": "Singapore",
+      "type": "country",
+      "border_history": [
+        "1819 Stamford Raffles established a British trading post on an island already connected to Malay-world trade and settlement.",
+        "1824 treaties placed Singapore firmly under British control as part of imperial trade strategy.",
+        "1942–1945 Japanese occupation during World War II was brutal and central to modern memory.",
+        "1963 Singapore joined Malaysia; 1965 separation made it an independent city-state with tiny land borders but major maritime stakes."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "occupation",
+        "separation",
+        "city-state",
+        "maritime border"
+      ],
+      "government_context": "Parliamentary republic; People’s Action Party has dominated government since self-rule/independence era.",
+      "languages": "English, Malay, Mandarin, and Tamil are official; Malay is national language, while multilingual everyday use is common.",
+      "corruption_context": {
+        "score": 84,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/Singapore",
+        "https://www.nlb.gov.sg/main/article-detail?cmsuuid=33c12da6-9d6b-4d3f-9e55-7df5e7abceef",
+        "https://www.gov.sg/article/government-system",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "monaco",
+      "name": "Monaco",
+      "type": "country",
+      "border_history": [
+        "1297 Grimaldi seizure of the fortress began the ruling dynasty’s long association with Monaco.",
+        "1861 Franco-Monegasque treaty recognized Monaco’s sovereignty while ceding Menton and Roquebrune to France.",
+        "1918 treaty with France tied Monaco’s external position closely to French interests while preserving separate statehood.",
+        "Modern Monaco’s land border is entirely with France; its sovereignty is microstate survival through diplomacy, finance, and legal specificity."
+      ],
+      "human_cost_tags": [
+        "microstate",
+        "treaty",
+        "dynastic rule",
+        "protectorate influence"
+      ],
+      "government_context": "Constitutional hereditary monarchy; prince is head of state with elected National Council and minister of state.",
+      "languages": "French is official; Monégasque/Ligurian heritage language, Italian, and English are also used.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/Monaco",
+        "https://en.gouv.mc/Government-Institutions/Institutions/Political-system",
+        "https://www.gouv.mc/Action-Gouvernementale/Monaco-a-l-International/Monaco-et-l-Union-Europeenne/Relations-bilaterales-avec-la-France",
+        "https://www.cia.gov/the-world-factbook/countries/monaco/"
+      ]
+    },
+    {
+      "id": "vatican-city",
+      "name": "Vatican City",
+      "type": "country",
+      "border_history": [
+        "1870 Italian capture of Rome ended the Papal States, leaving the pope without temporal territory.",
+        "1929 Lateran Treaty between Italy and the Holy See created Vatican City as a tiny sovereign state.",
+        "The border is less ethnic or geographic than institutional: a territorial guarantee for the Holy See’s independence.",
+        "Modern Vatican sovereignty is tied to diplomacy, religion, and extraterritorial properties rather than normal national territory."
+      ],
+      "human_cost_tags": [
+        "treaty",
+        "microstate",
+        "religious sovereignty",
+        "state succession"
+      ],
+      "government_context": "Ecclesiastical elective monarchy; pope is sovereign, with governance delegated through Vatican institutions.",
+      "languages": "Italian is everyday administrative language; Latin is important in church law and ritual; many world languages are used by the Holy See.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.britannica.com/place/Vatican-City",
+        "https://www.vaticanstate.va/en/state-government/general-informations/history.html",
+        "https://www.vatican.va/content/holysee/en.html",
+        "https://www.cia.gov/the-world-factbook/countries/holy-see-vatican-city/"
+      ]
+    }
+  ]
+}
