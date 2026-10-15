@@ -1,0 +1,14 @@
+{
+  "name": "MapTight",
+  "short_name": "MapTight",
+  "description": "Maps, measured humanly. Borders are lines. People are the story.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07100e",
+  "theme_color": "#07100e",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/maptight-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
