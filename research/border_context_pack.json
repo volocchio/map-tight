@@ -680,6 +680,73 @@
         "https://www.vatican.va/content/holysee/en.html",
         "https://www.cia.gov/the-world-factbook/countries/holy-see-vatican-city/"
       ]
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "type": "country",
+      "border_history": [
+        "Indigenous nations and Inuit, Métis, and First Nations homelands long predate European imperial borders across northern North America.",
+        "1763 Treaty of Paris shifted New France to Britain, while later British North America boundaries evolved through imperial administration and settlement.",
+        "1818 convention and later treaties fixed much of the Canada–United States boundary, including the 49th parallel westward, while Alaska boundaries were settled separately.",
+        "1867 Confederation joined colonies into the Dominion of Canada; later provinces and territories expanded the federation across the continent."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "indigenous dispossession",
+        "treaty",
+        "federalism",
+        "settler expansion"
+      ],
+      "government_context": "Federal parliamentary democracy and constitutional monarchy; provinces and territories share powers with the federal government.",
+      "languages": "English and French are official at the federal level; many Indigenous languages remain central to communities and revitalization efforts.",
+      "corruption_context": {
+        "score": 75,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/Canada",
+        "https://history.state.gov/countries/canada",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/how-canadians-govern-themselves.html",
+        "https://laws-lois.justice.gc.ca/eng/acts/o-3.01/page-1.html",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "mexico",
+      "name": "Mexico",
+      "type": "country",
+      "border_history": [
+        "Indigenous polities including Mexica, Maya, Mixtec, Zapotec, Purépecha, and many others shaped regions long before Spanish colonial borders.",
+        "1821 independence from Spain inherited a vast northern frontier whose borders were contested by settler migration, regional autonomy, and foreign pressure.",
+        "1848 Treaty of Guadalupe Hidalgo ended the Mexican–American War and ceded large northern territories to the United States, fixing much of today’s border.",
+        "1853 Gadsden Purchase adjusted the border again; later boundary management mixed diplomacy, migration, policing, trade, and shared river systems."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "war",
+        "territorial cession",
+        "indigenous dispossession",
+        "border enforcement"
+      ],
+      "government_context": "Federal presidential republic under the Constitution of the United Mexican States; states and Mexico City have constitutional roles within the federation.",
+      "languages": "Spanish is the dominant national language; Indigenous languages are recognized as national languages with linguistic rights protections.",
+      "corruption_context": {
+        "score": 27,
+        "scale": "0-100; higher=cleaner",
+        "year": 2025,
+        "source": "Transparency International CPI 2025"
+      },
+      "sources": [
+        "https://www.britannica.com/place/Mexico",
+        "https://history.state.gov/countries/mexico",
+        "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+        "https://www.gob.mx/sesnsp/documentos/constitucion-normateca-del-sesnsp",
+        "https://site.inali.gob.mx/Micrositios/LGDLPI/",
+        "https://www.transparency.org/en/cpi/2025"
+      ]
     }
   ]
 }
