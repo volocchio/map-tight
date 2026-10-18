@@ -1,10 +1,13 @@
 # MapTight border context pack
 
-Version: 2026-09-19
+Version: 2026-10-18
 
 Curated short-form context for UI import. Keep copy neutral: borders are historical/political artifacts, not destiny.
 
 ## Implementation notes
+
+- CPI values use Transparency International CPI 2025 where available; non-sovereign states/regions and microstates not covered reliably are null.
+- Entries are intentionally short for app UI; sources are included for later expansion and QA.
 
 - Load `border_context_pack.json` as external data later instead of embedding in `index.html`.
 - Match entries by stable `id` values already used in app data/presets where possible.
@@ -220,7 +223,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English dominates; Native languages with regional ties include Arapaho and Shoshone, alongside Spanish and other community languages.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/Wyoming-state
@@ -244,7 +247,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English dominates; Appalachian and Southern dialects are culturally important; Spanish and Indigenous heritage languages are present.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/Tennessee
@@ -268,7 +271,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Extremely multilingual: Niger-Congo, Afro-Asiatic, Nilo-Saharan, Khoisan families, Arabic, Swahili, Hausa, Amharic, and colonial languages such as English, French, Portuguese.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/Africa
@@ -292,7 +295,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Indo-European languages dominate, with Uralic, Turkic, Basque, Maltese, Romani, and many minority/regional languages.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/Europe
@@ -316,7 +319,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** World’s largest linguistic diversity: Sino-Tibetan, Indo-European, Austronesian, Dravidian, Turkic, Japonic, Koreanic, Semitic, Tai-Kadai and many others.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/Asia
@@ -340,7 +343,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English, Spanish, and French are dominant state languages; Indigenous, creole, and immigrant languages remain central in many communities.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/North-America
@@ -364,7 +367,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Spanish and Portuguese dominate state life; Quechua, Aymara, Guarani and many Amazonian/Indigenous languages remain important.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/South-America
@@ -388,7 +391,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** No native language community; station languages follow national programs, especially English, Spanish, Russian, French, Chinese, and others.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.ats.aq/e/antarctictreaty.html
@@ -412,7 +415,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Arabic is most widespread; Persian, Turkish, Hebrew, Kurdish, Armenian, Aramaic/Syriac varieties and many minority languages are significant.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/Middle-East
@@ -532,7 +535,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** French is official; Monégasque/Ligurian heritage language, Italian, and English are also used.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/Monaco
@@ -556,10 +559,135 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Italian is everyday administrative language; Latin is important in church law and ritual; many world languages are used by the Holy See.
 
-**Corruption context:** null — no reliable/applicable CPI-style sovereign-state score.
+**Corruption context:** n/a / not reliably covered by CPI.
 
 **Sources**
 - https://www.britannica.com/place/Vatican-City
 - https://www.vaticanstate.va/en/state-government/general-informations/history.html
 - https://www.vatican.va/content/holysee/en.html
 - https://www.cia.gov/the-world-factbook/countries/holy-see-vatican-city/
+
+## Canada (`canada`)
+
+**Type:** country
+
+**Border history**
+- Indigenous nations and Inuit, Métis, and First Nations homelands long predate European imperial borders across northern North America.
+- 1763 Treaty of Paris shifted New France to Britain, while later British North America boundaries evolved through imperial administration and settlement.
+- 1818 convention and later treaties fixed much of the Canada–United States boundary, including the 49th parallel westward, while Alaska boundaries were settled separately.
+- 1867 Confederation joined colonies into the Dominion of Canada; later provinces and territories expanded the federation across the continent.
+
+**Human-cost tags:** colonialism, indigenous dispossession, treaty, federalism, settler expansion
+
+**Government context:** Federal parliamentary democracy and constitutional monarchy; provinces and territories share powers with the federal government.
+
+**Languages:** English and French are official at the federal level; many Indigenous languages remain central to communities and revitalization efforts.
+
+**Corruption context:** 75/100, Transparency International CPI 2025 (2025).
+
+**Sources**
+- https://www.britannica.com/place/Canada
+- https://history.state.gov/countries/canada
+- https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/how-canadians-govern-themselves.html
+- https://laws-lois.justice.gc.ca/eng/acts/o-3.01/page-1.html
+- https://www.transparency.org/en/cpi/2025
+
+## Mexico (`mexico`)
+
+**Type:** country
+
+**Border history**
+- Indigenous polities including Mexica, Maya, Mixtec, Zapotec, Purépecha, and many others shaped regions long before Spanish colonial borders.
+- 1821 independence from Spain inherited a vast northern frontier whose borders were contested by settler migration, regional autonomy, and foreign pressure.
+- 1848 Treaty of Guadalupe Hidalgo ended the Mexican–American War and ceded large northern territories to the United States, fixing much of today’s border.
+- 1853 Gadsden Purchase adjusted the border again; later boundary management mixed diplomacy, migration, policing, trade, and shared river systems.
+
+**Human-cost tags:** colonialism, war, territorial cession, indigenous dispossession, border enforcement
+
+**Government context:** Federal presidential republic under the Constitution of the United Mexican States; states and Mexico City have constitutional roles within the federation.
+
+**Languages:** Spanish is the dominant national language; Indigenous languages are recognized as national languages with linguistic rights protections.
+
+**Corruption context:** 27/100, Transparency International CPI 2025 (2025).
+
+**Sources**
+- https://www.britannica.com/place/Mexico
+- https://history.state.gov/countries/mexico
+- https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
+- https://www.gob.mx/sesnsp/documentos/constitucion-normateca-del-sesnsp
+- https://site.inali.gob.mx/Micrositios/LGDLPI/
+- https://www.transparency.org/en/cpi/2025
+
+## Idaho (`idaho`)
+
+**Type:** state
+
+**Border history**
+- 1846 Oregon Treaty fixed the U.S.–British boundary at the 49th parallel, placing the future Idaho panhandle inside U.S. claims.
+- 1859–1863 the area shifted from Oregon Territory to Washington Territory and then Idaho Territory as Congress reorganized western lands.
+- 1864–1868 Montana and Wyoming were carved away, leaving Idaho’s narrow panhandle and southern block shape.
+- 1890 statehood locked survey lines, mining/frontier politics, and older Indigenous homelands into a U.S. state border.
+
+**Human-cost tags:** indigenous dispossession, treaty, mining frontier, survey line, territorial carving
+
+**Government context:** U.S. state with a governor-led executive, bicameral legislature, and powers reserved under the federal system.
+
+**Languages:** English dominates public life; Indigenous languages tied to Nez Perce, Shoshone-Bannock, Coeur d’Alene, Kootenai, and other communities remain culturally important.
+
+**Corruption context:** n/a / not reliably covered by CPI.
+
+**Sources**
+- https://history.state.gov/milestones/1830-1860/oregon-territory
+- https://history.idaho.gov/wp-content/uploads/0264_The-Creation-of-the-Territory-of-Idaho.pdf
+- https://history.idaho.gov/wp-content/uploads/0482_Idaho-Indian-Treaty-Lands.pdf
+- https://www.britannica.com/place/Idaho
+
+## Texas (`texas`)
+
+**Type:** state
+
+**Border history**
+- 1819 Adams–Onís Treaty set the Sabine River boundary between Spanish Texas and the United States, shaping Texas’s eastern edge.
+- 1836 Republic of Texas claimed the Rio Grande as its southern and western boundary, a claim Mexico disputed and Texas did not fully control.
+- 1848 Treaty of Guadalupe Hidalgo confirmed the Rio Grande as the international boundary after the Mexican–American War.
+- 1850 Compromise fixed Texas’s north and west boundaries after Texas relinquished large western claims for federal debt relief.
+
+**Human-cost tags:** war, annexation, slavery politics, indigenous dispossession, border conflict
+
+**Government context:** U.S. state with a governor-led executive, bicameral legislature, and powers reserved under the federal system.
+
+**Languages:** English dominates statewide; Spanish is deeply rooted and widely spoken; Indigenous and immigrant languages remain part of the state’s cultural landscape.
+
+**Corruption context:** n/a / not reliably covered by CPI.
+
+**Sources**
+- https://www.tsl.texas.gov/exhibits/annexation/aftermath/question10.html
+- https://www.tsl.texas.gov/treasures/earlystate/boundary.html
+- https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
+- https://www.archives.gov/milestone-documents/compromise-of-1850
+- https://www.tshaonline.org/handbook/entries/boundaries
+
+## Alaska (`alaska`)
+
+**Type:** state
+
+**Border history**
+- 1825 Anglo-Russian convention described a boundary between Russian America and British possessions, leaving later ambiguities around the coastal strip and mountain line.
+- 1867 Treaty of Cession transferred Alaska from Russia to the United States, carrying those inherited boundary questions into U.S.–British/Canadian diplomacy.
+- 1897 Klondike gold rush increased pressure to settle access and sovereignty disputes around the Alaska–Canada border.
+- 1903 Alaska Boundary Tribunal resolved the main southeastern Alaska boundary dispute largely in favor of the United States; Alaska became a U.S. state in 1959.
+
+**Human-cost tags:** colonialism, treaty, resource frontier, indigenous sovereignty, boundary arbitration
+
+**Government context:** U.S. state with a governor-led executive, bicameral legislature, and powers reserved under the federal system; Alaska Native corporations and tribal governments are major political and land-rights actors.
+
+**Languages:** English dominates state administration; Alaska Native languages across Eskimo-Aleut and Na-Dene families remain culturally central, with revitalization and official-recognition efforts.
+
+**Corruption context:** n/a / not reliably covered by CPI.
+
+**Sources**
+- https://history.state.gov/historicaldocuments/frus1903/d479
+- https://avalon.law.yale.edu/19th_century/treatywi.asp
+- https://www.govinfo.gov/app/details/SERIALSET-04600_00_00-001-0162-0000/
+- https://history.state.gov/milestones/1866-1898/alaska-purchase
+- https://gov.alaska.gov/admin-orders/administrative-order-no-300/

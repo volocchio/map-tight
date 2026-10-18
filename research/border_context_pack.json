@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19",
+  "version": "2026-10-18",
   "purpose": "MapTight border-history and political/cultural context pack",
   "notes": [
     "CPI values use Transparency International CPI 2025 where available; non-sovereign states/regions and microstates not covered reliably are null.",
@@ -746,6 +746,89 @@
         "https://www.gob.mx/sesnsp/documentos/constitucion-normateca-del-sesnsp",
         "https://site.inali.gob.mx/Micrositios/LGDLPI/",
         "https://www.transparency.org/en/cpi/2025"
+      ]
+    },
+    {
+      "id": "idaho",
+      "name": "Idaho",
+      "type": "state",
+      "border_history": [
+        "1846 Oregon Treaty fixed the U.S.–British boundary at the 49th parallel, placing the future Idaho panhandle inside U.S. claims.",
+        "1859–1863 the area shifted from Oregon Territory to Washington Territory and then Idaho Territory as Congress reorganized western lands.",
+        "1864–1868 Montana and Wyoming were carved away, leaving Idaho’s narrow panhandle and southern block shape.",
+        "1890 statehood locked survey lines, mining/frontier politics, and older Indigenous homelands into a U.S. state border."
+      ],
+      "human_cost_tags": [
+        "indigenous dispossession",
+        "treaty",
+        "mining frontier",
+        "survey line",
+        "territorial carving"
+      ],
+      "government_context": "U.S. state with a governor-led executive, bicameral legislature, and powers reserved under the federal system.",
+      "languages": "English dominates public life; Indigenous languages tied to Nez Perce, Shoshone-Bannock, Coeur d’Alene, Kootenai, and other communities remain culturally important.",
+      "corruption_context": null,
+      "sources": [
+        "https://history.state.gov/milestones/1830-1860/oregon-territory",
+        "https://history.idaho.gov/wp-content/uploads/0264_The-Creation-of-the-Territory-of-Idaho.pdf",
+        "https://history.idaho.gov/wp-content/uploads/0482_Idaho-Indian-Treaty-Lands.pdf",
+        "https://www.britannica.com/place/Idaho"
+      ]
+    },
+    {
+      "id": "texas",
+      "name": "Texas",
+      "type": "state",
+      "border_history": [
+        "1819 Adams–Onís Treaty set the Sabine River boundary between Spanish Texas and the United States, shaping Texas’s eastern edge.",
+        "1836 Republic of Texas claimed the Rio Grande as its southern and western boundary, a claim Mexico disputed and Texas did not fully control.",
+        "1848 Treaty of Guadalupe Hidalgo confirmed the Rio Grande as the international boundary after the Mexican–American War.",
+        "1850 Compromise fixed Texas’s north and west boundaries after Texas relinquished large western claims for federal debt relief."
+      ],
+      "human_cost_tags": [
+        "war",
+        "annexation",
+        "slavery politics",
+        "indigenous dispossession",
+        "border conflict"
+      ],
+      "government_context": "U.S. state with a governor-led executive, bicameral legislature, and powers reserved under the federal system.",
+      "languages": "English dominates statewide; Spanish is deeply rooted and widely spoken; Indigenous and immigrant languages remain part of the state’s cultural landscape.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.tsl.texas.gov/exhibits/annexation/aftermath/question10.html",
+        "https://www.tsl.texas.gov/treasures/earlystate/boundary.html",
+        "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+        "https://www.archives.gov/milestone-documents/compromise-of-1850",
+        "https://www.tshaonline.org/handbook/entries/boundaries"
+      ]
+    },
+    {
+      "id": "alaska",
+      "name": "Alaska",
+      "type": "state",
+      "border_history": [
+        "1825 Anglo-Russian convention described a boundary between Russian America and British possessions, leaving later ambiguities around the coastal strip and mountain line.",
+        "1867 Treaty of Cession transferred Alaska from Russia to the United States, carrying those inherited boundary questions into U.S.–British/Canadian diplomacy.",
+        "1897 Klondike gold rush increased pressure to settle access and sovereignty disputes around the Alaska–Canada border.",
+        "1903 Alaska Boundary Tribunal resolved the main southeastern Alaska boundary dispute largely in favor of the United States; Alaska became a U.S. state in 1959."
+      ],
+      "human_cost_tags": [
+        "colonialism",
+        "treaty",
+        "resource frontier",
+        "indigenous sovereignty",
+        "boundary arbitration"
+      ],
+      "government_context": "U.S. state with a governor-led executive, bicameral legislature, and powers reserved under the federal system; Alaska Native corporations and tribal governments are major political and land-rights actors.",
+      "languages": "English dominates state administration; Alaska Native languages across Eskimo-Aleut and Na-Dene families remain culturally central, with revitalization and official-recognition efforts.",
+      "corruption_context": null,
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1903/d479",
+        "https://avalon.law.yale.edu/19th_century/treatywi.asp",
+        "https://www.govinfo.gov/app/details/SERIALSET-04600_00_00-001-0162-0000/",
+        "https://history.state.gov/milestones/1866-1898/alaska-purchase",
+        "https://gov.alaska.gov/admin-orders/administrative-order-no-300/"
       ]
     }
   ]
