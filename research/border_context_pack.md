@@ -790,3 +790,75 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 - https://www.government.nl/themes/government-and-democracy/constitution
 - https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/erkende-talen/erkende-talen-nederland
 - https://www.transparency.org/en/cpi/2025
+
+## California (`california`)
+
+**Type:** us-state
+
+**Border history**
+- Long before state lines, California contained many Indigenous homelands; Spanish missions, Mexican land grants, and later U.S. rule layered new jurisdictions over them.
+- The 1848 Treaty of Guadalupe Hidalgo transferred Alta California from Mexico to the United States after the Mexican-American War.
+- California entered the Union in 1850 under the Compromise of 1850; its admission as a free state was tied to national conflict over slavery.
+- California’s eastern boundary was surveyed and disputed in stages, with practical border fixing continuing after statehood.
+
+**Human-cost tags:** indigenous dispossession, war, treaty, statehood, slavery politics
+
+**Government context:** U.S. state with a governor, bicameral legislature, and constitution; local governments retain important land-use and service powers.
+
+**Languages:** English is the dominant government language; Spanish, Chinese, Tagalog, Vietnamese, Korean, Armenian, and many Indigenous languages are part of the state’s linguistic landscape.
+
+**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+
+**Sources**
+- https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
+- https://www.archives.gov/milestone-documents/compromise-of-1850
+- https://www.parks.ca.gov/?lang=en&page_id=23856
+- https://www.senate.gov/states/CA/timeline.shtml
+
+## Arizona (`arizona`)
+
+**Type:** us-state
+
+**Border history**
+- Present-day Arizona includes many Indigenous homelands whose borders and governance long predate Spanish, Mexican, and U.S. jurisdiction.
+- Much of northern Arizona came under U.S. control through the 1848 Treaty of Guadalupe Hidalgo; southern Arizona was added through the 1853 Gadsden Purchase.
+- Congress created Arizona Territory in 1863, separating it from New Mexico Territory during the Civil War era.
+- Arizona became a state in 1912, after an enabling act and constitution-writing process shaped its modern state government.
+
+**Human-cost tags:** indigenous dispossession, war, treaty, purchase, territorial government
+
+**Government context:** U.S. state with elected executive offices, a bicameral legislature, and county/municipal governments; tribal nations exercise sovereignty within the state.
+
+**Languages:** English is the dominant government language; Spanish and Indigenous languages including Diné/Navajo, Apache, O’odham, Hopi, and Yuman languages are historically important.
+
+**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+
+**Sources**
+- https://history.state.gov/milestones/1830-1860/gadsden-purchase
+- https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
+- https://www.senate.gov/states/AZ/timeline.htm
+- https://azcapitolmuseum.gov/pdfs/azcm-introduction-packet.pdf
+
+## Nevada (`nevada`)
+
+**Type:** us-state
+
+**Border history**
+- Nevada’s modern borders overlay Indigenous homelands including Paiute, Shoshone, and Washoe peoples, later claimed by Spain, Mexico, and the United States.
+- The 1848 Treaty of Guadalupe Hidalgo placed the region under U.S. control; the Comstock silver boom helped push separate territorial organization.
+- Congress created Nevada Territory from western Utah Territory in 1861, then admitted Nevada as a state in 1864 during the Civil War.
+- Nevada’s shape expanded east and south after statehood, including later additions from Utah Territory and Arizona Territory.
+
+**Human-cost tags:** indigenous dispossession, mining boom, war, territorial government, statehood
+
+**Government context:** U.S. state with a governor, bicameral legislature, and constitution; counties and cities handle many local services across large federal-land areas.
+
+**Languages:** English is the dominant government language; Spanish, Tagalog, Chinese languages, and Indigenous languages including Northern Paiute, Shoshone, and Washoe are part of the state context.
+
+**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+
+**Sources**
+- https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
+- https://jic.nv.gov/About/History_of_Nevada/
+- https://www.leg.state.nv.us/Const/NVAdmActs.html
+- https://nsla.nv.gov/utah-nevada-territory/home
