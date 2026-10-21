@@ -1,6 +1,6 @@
 # MapTight border context pack
 
-Version: 2026-10-18
+Version: 2026-10-19
 
 Curated short-form context for UI import. Keep copy neutral: borders are historical/political artifacts, not destiny.
 
@@ -691,3 +691,102 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 - https://www.govinfo.gov/app/details/SERIALSET-04600_00_00-001-0162-0000/
 - https://history.state.gov/milestones/1866-1898/alaska-purchase
 - https://gov.alaska.gov/admin-orders/administrative-order-no-300/
+
+## Spain (`spain`)
+
+**Type:** country
+
+**Border history**
+- 1469 marriage of Ferdinand of Aragon and Isabella of Castile linked two crowns; later conquest of Granada and Navarre helped form the territorial core of Spain.
+- 1713 Treaty of Utrecht ended the War of the Spanish Succession settlement; Spain ceded Gibraltar and other European possessions, while Bourbon centralization reshaped internal autonomy.
+- 19th-century loss of most American colonies and the 1898 Spanish-American War reduced Spain from empire to a mostly European state with remaining North African enclaves.
+- Post-1978 democracy recognizes autonomous communities, so modern territorial politics include Catalonia, the Basque Country, and debates over Gibraltar, Ceuta, and Melilla.
+
+**Human-cost tags:** empire, conquest, colonialism, war, regional autonomy
+
+**Government context:** Parliamentary constitutional monarchy; the monarch is head of state, while the prime minister leads government through the Cortes Generales.
+
+**Languages:** Castilian Spanish is official nationwide; Catalan/Valencian, Galician, Basque, and other languages have official or protected regional roles.
+
+**Corruption context:** 55/100, Transparency International CPI 2025 (2025).
+
+**Sources**
+- https://www.britannica.com/place/Spain
+- https://history.state.gov/countries/spain
+- https://www.lamoncloa.gob.es/lang/en/espana/historyandculture/constitutionalorganisation/Paginas/index.aspx
+- https://www.transparency.org/en/cpi/2025
+- https://mptmd.gob.es/en/portal/politica-territorial/autonomica/lenguas-cooficiales
+
+## Italy (`italy`)
+
+**Type:** country
+
+**Border history**
+- 1861 Kingdom of Italy unified many pre-existing states, though Rome and Venetia joined only after later wars and diplomacy.
+- 1919–1920 post-World War I settlements brought South Tyrol/Alto Adige and other borderlands into Italy, creating lasting minority-language questions.
+- 1947 peace treaty after World War II adjusted Italy’s borders, including losses around Istria and the complex Free Territory of Trieste settlement.
+- Postwar European integration softened Alpine and Adriatic borders, while regional autonomy remains important in places such as South Tyrol, Sicily, and Sardinia.
+
+**Human-cost tags:** unification, war, treaty, minority rights, borderland displacement
+
+**Government context:** Parliamentary republic; the president is head of state and the prime minister leads government with parliamentary confidence.
+
+**Languages:** Italian is official; protected minority languages include German, French, Slovene, Ladin, Sardinian, Friulian, and others under national and regional laws.
+
+**Corruption context:** 53/100, Transparency International CPI 2025 (2025).
+
+**Sources**
+- https://www.britannica.com/place/Italy
+- https://history.state.gov/countries/italy
+- https://www.quirinale.it/page/costituzione?lingua=en
+- https://www.transparency.org/en/cpi/2025
+- https://libertaciviliimmigrazione.dlci.interno.gov.it/minoranze-linguistiche-storiche
+
+## Belgium (`belgium`)
+
+**Type:** country
+
+**Border history**
+- 1830 Belgian Revolution separated the southern provinces from the Netherlands; the 1839 Treaty of London recognized Belgium and fixed key borders.
+- World Wars I and II brought German invasions and occupation despite Belgium’s small size and strategic position between larger powers.
+- Postwar state reforms gradually federalized Belgium around language communities and regions rather than moving the external border.
+- Today borders are highly integrated through the EU and Schengen, while internal language borders shape politics, education, and public administration.
+
+**Human-cost tags:** treaty, occupation, great-power diplomacy, federalism, language politics
+
+**Government context:** Federal parliamentary constitutional monarchy with powers divided among federal, regional, and community institutions.
+
+**Languages:** Dutch, French, and German are official; language communities and the Brussels-Capital bilingual region are central to public life.
+
+**Corruption context:** 69/100, Transparency International CPI 2025 (2025).
+
+**Sources**
+- https://www.britannica.com/place/Belgium
+- https://history.state.gov/countries/belgium
+- https://www.belgium.be/en/about_belgium/government/federale_staat
+- https://www.transparency.org/en/cpi/2025
+
+## Netherlands (`netherlands`)
+
+**Type:** country
+
+**Border history**
+- 1579 Union of Utrecht joined rebellious northern provinces during the Dutch Revolt; 1648 Peace of Münster recognized the Dutch Republic’s independence from Spain.
+- 1815 Congress of Vienna created the Kingdom of the Netherlands by joining the northern Netherlands with the southern provinces as a buffer after Napoleonic wars.
+- 1830 Belgian Revolution and the 1839 Treaty of London separated Belgium from the Netherlands, fixing much of the modern southern frontier.
+- Post-1945 European integration and Benelux/EU cooperation softened borders with Belgium and Germany, while Caribbean parts of the kingdom keep Dutch sovereignty transatlantic.
+
+**Human-cost tags:** revolt, treaty, partition, empire, European integration
+
+**Government context:** Constitutional monarchy and parliamentary democracy; ministers are politically responsible for government, and the monarch’s role is constitutional.
+
+**Languages:** Dutch is official; Frisian is official in Fryslân/Friesland, while Low Saxon and Limburgish are recognized regional languages under the European language charter.
+
+**Corruption context:** 78/100, Transparency International CPI 2025 (2025).
+
+**Sources**
+- https://www.britannica.com/place/Netherlands
+- https://history.state.gov/countries/netherlands
+- https://www.government.nl/themes/government-and-democracy/constitution
+- https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/erkende-talen/erkende-talen-nederland
+- https://www.transparency.org/en/cpi/2025
