@@ -862,3 +862,27 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 - https://jic.nv.gov/About/History_of_Nevada/
 - https://www.leg.state.nv.us/Const/NVAdmActs.html
 - https://nsla.nv.gov/utah-nevada-territory/home
+
+## Utah (`utah`)
+
+**Type:** us-state
+
+**Border history**
+- Utah’s state borders overlay Indigenous homelands including Ute, Paiute, Goshute, Shoshone, and Diné/Navajo peoples, whose governance and movement predate U.S. territorial lines.
+- The 1848 Treaty of Guadalupe Hidalgo transferred the region from Mexico to the United States; Mormon migration and settlement quickly made the area a distinct U.S. territorial question.
+- Congress created Utah Territory in 1850 as part of the Compromise of 1850, originally far larger than the modern state before later territorial reductions created neighboring jurisdictions.
+- Utah became a state in 1896 after repeated statehood efforts, with the modern border reflecting federal territorial carving, mining/frontier politics, and religious-political conflict over governance.
+
+**Human-cost tags:** indigenous dispossession, treaty, religious settlement, territorial government, statehood
+
+**Government context:** U.S. state with a governor, bicameral legislature, and constitution; counties, municipalities, tribal nations, and extensive federal lands shape governance.
+
+**Languages:** English dominates state government; Spanish and Indigenous languages including Ute, Paiute, Goshute/Shoshone, and Diné/Navajo are part of the state context.
+
+**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+
+**Sources**
+- https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
+- https://historytogo.utah.gov/utah-territory/
+- https://www.senate.gov/states/UT/timeline.htm
+- https://www.uen.org/utah_history_encyclopedia/s/STATEHOOD.shtml
