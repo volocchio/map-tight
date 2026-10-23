@@ -886,3 +886,51 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 - https://historytogo.utah.gov/utah-territory/
 - https://www.senate.gov/states/UT/timeline.htm
 - https://www.uen.org/utah_history_encyclopedia/s/STATEHOOD.shtml
+
+## Oregon (`oregon`)
+
+**Type:** us-state
+
+**Border history**
+- Indigenous nations including Chinook, Kalapuya, Klamath, Nez Perce, Umatilla, and many others lived across the region long before U.S. state lines.
+- The 1846 Oregon Treaty set the U.S.–British boundary at the 49th parallel, separating Oregon Country from what became British/Canadian territory.
+- Oregon Territory was organized in 1848 after settler migration and the provisional government period; later territorial splits created Washington, Idaho-linked, and other boundaries.
+- Oregon became a state in 1859; its early constitution included exclusionary racial clauses, a reminder that clean map borders often hid violent and discriminatory settlement politics.
+
+**Human-cost tags:** indigenous displacement, treaty, settler colonialism, territorial split, exclusion law
+
+**Government context:** U.S. state with a governor, bicameral legislature, and judiciary; state government is organized across executive, legislative, and judicial branches.
+
+**Languages:** English is dominant in state government and public life; Spanish and many Indigenous, immigrant, and refugee-community languages are also part of Oregon's language landscape.
+
+**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+
+**Sources**
+- https://sos.oregon.gov/blue-book/explore/Pages/chronology-1851-1900.aspx
+- https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx
+- https://www.oregon.gov/Pages/government.aspx
+- https://www.britannica.com/place/Oregon-state
+
+## Colorado (`colorado`)
+
+**Type:** us-state
+
+**Border history**
+- Colorado's rectangular outline overlays homelands of Ute, Cheyenne, Arapaho, Pueblo, Apache, Comanche, and other Native peoples rather than reflecting older cultural boundaries.
+- U.S. claims came through overlapping acquisitions and treaties including the Louisiana Purchase, the Adams-Onís Treaty, Texas annexation claims, and the Treaty of Guadalupe Hidalgo.
+- The 1861 Colorado Territory gathered pieces from Kansas, Nebraska, New Mexico, and Utah territories during the mining boom and Civil War-era federal organization.
+- Colorado entered the Union in 1876; surveyed meridians and parallels make the border look simple, while land loss, reservations, mining, and water compacts made control far more contested.
+
+**Human-cost tags:** indigenous displacement, treaty, mining frontier, survey line, territorial split
+
+**Government context:** U.S. state with an elected governor, bicameral General Assembly, judiciary, and a state constitution that also supports citizen initiatives and referendums.
+
+**Languages:** English is Colorado's official language under the state constitution; Spanish and Indigenous, immigrant, and regional community languages remain important in daily life.
+
+**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+
+**Sources**
+- https://www.colorado.gov/history-colorado
+- https://www.leg.colorado.gov/laws/colorado-constitution
+- https://www.leg.colorado.gov/agencies/office-legislative-legal-services/colorado-constitution
+- https://www.britannica.com/place/Colorado-state
