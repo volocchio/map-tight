@@ -934,3 +934,53 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 - https://www.leg.colorado.gov/laws/colorado-constitution
 - https://www.leg.colorado.gov/agencies/office-legislative-legal-services/colorado-constitution
 - https://www.britannica.com/place/Colorado-state
+
+
+## Washington (`washington`)
+
+**Type:** us-state
+
+**Border history**
+- Washington's state borders overlay Coast Salish, Yakama, Spokane, Nez Perce, Colville, Makah, Chinook, and many other Native homelands that long predate U.S. and Canadian lines.
+- The 1846 Oregon Treaty set the 49th parallel as the U.S.-British boundary west to the Strait of Georgia, splitting older Indigenous and trade geographies across what became the U.S.-Canada border.
+- Washington Territory was separated from Oregon Territory in 1853, with later adjustments as Idaho and other territorial lines were organized.
+- Washington became a state in 1889; its Pacific, Columbia River, and surveyed inland borders hide histories of treaty coercion, settler migration, resource extraction, and cross-border Native ties.
+
+**Human-cost tags:** indigenous displacement, treaty, settler colonialism, territorial split, survey line
+
+**Government context:** U.S. state with an elected governor, bicameral legislature, judiciary, counties, municipalities, and federally recognized tribal governments that exercise sovereignty within the state context.
+
+**Languages:** English dominates state government; Spanish, Lushootseed, Sahaptin/Yakama, Salishan languages, Makah, and many immigrant-community languages are part of Washington's language landscape.
+
+**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+
+**Sources**
+- https://history.state.gov/milestones/1830-1860/oregon-territory
+- https://www.senate.gov/states/WA/timeline.htm
+- https://www.britannica.com/place/Washington-state
+- https://goia.wa.gov/tribal-directory/federally-recognized-indian-tribes
+
+
+## New Mexico (`new-mexico`)
+
+**Type:** us-state
+
+**Border history**
+- New Mexico's borders overlay Pueblo, Diné/Navajo, Apache, Comanche, Ute, and other Indigenous homelands whose political geographies predate Spanish, Mexican, and U.S. rule.
+- Spanish colonization from the late 1500s made the region part of New Spain; the 1680 Pueblo Revolt showed that imperial control was contested and never simply a line on a map.
+- The 1848 Treaty of Guadalupe Hidalgo transferred much of the region from Mexico to the United States, and the 1853 Gadsden Purchase fixed the southern border area.
+- New Mexico Territory was organized in 1850 and statehood came in 1912 after long debates over language, race, land grants, and federal control in the borderlands.
+
+**Human-cost tags:** indigenous displacement, colonialism, treaty, borderland, statehood
+
+**Government context:** U.S. state with an elected governor, bicameral legislature, judiciary, counties, municipalities, pueblos, tribal nations, and major federal/tribal land governance layers.
+
+**Languages:** English and Spanish are central to public life; Diné/Navajo, Pueblo languages, Apache languages, and other Indigenous and immigrant-community languages are also important.
+
+**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+
+**Sources**
+- https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
+- https://www.senate.gov/states/NM/timeline.htm
+- https://www.britannica.com/place/New-Mexico
+- https://www.nmlegis.gov/Publications/New_Mexico_Statehood.pdf
