@@ -223,7 +223,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English dominates; Native languages with regional ties include Arapaho and Shoshone, alongside Spanish and other community languages.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/Wyoming-state
@@ -247,7 +247,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English dominates; Appalachian and Southern dialects are culturally important; Spanish and Indigenous heritage languages are present.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/Tennessee
@@ -271,7 +271,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Extremely multilingual: Niger-Congo, Afro-Asiatic, Nilo-Saharan, Khoisan families, Arabic, Swahili, Hausa, Amharic, and colonial languages such as English, French, Portuguese.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/Africa
@@ -295,7 +295,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Indo-European languages dominate, with Uralic, Turkic, Basque, Maltese, Romani, and many minority/regional languages.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/Europe
@@ -319,7 +319,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** World’s largest linguistic diversity: Sino-Tibetan, Indo-European, Austronesian, Dravidian, Turkic, Japonic, Koreanic, Semitic, Tai-Kadai and many others.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/Asia
@@ -343,7 +343,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English, Spanish, and French are dominant state languages; Indigenous, creole, and immigrant languages remain central in many communities.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/North-America
@@ -367,7 +367,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Spanish and Portuguese dominate state life; Quechua, Aymara, Guarani and many Amazonian/Indigenous languages remain important.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/South-America
@@ -391,7 +391,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** No native language community; station languages follow national programs, especially English, Spanish, Russian, French, Chinese, and others.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.ats.aq/e/antarctictreaty.html
@@ -415,7 +415,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Arabic is most widespread; Persian, Turkish, Hebrew, Kurdish, Armenian, Aramaic/Syriac varieties and many minority languages are significant.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/Middle-East
@@ -535,7 +535,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** French is official; Monégasque/Ligurian heritage language, Italian, and English are also used.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/Monaco
@@ -559,7 +559,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** Italian is everyday administrative language; Latin is important in church law and ritual; many world languages are used by the Holy See.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.britannica.com/place/Vatican-City
@@ -634,7 +634,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English dominates public life; Indigenous languages tied to Nez Perce, Shoshone-Bannock, Coeur d’Alene, Kootenai, and other communities remain culturally important.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://history.state.gov/milestones/1830-1860/oregon-territory
@@ -658,7 +658,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English dominates statewide; Spanish is deeply rooted and widely spoken; Indigenous and immigrant languages remain part of the state’s cultural landscape.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.tsl.texas.gov/exhibits/annexation/aftermath/question10.html
@@ -683,7 +683,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English dominates state administration; Alaska Native languages across Eskimo-Aleut and Na-Dene families remain culturally central, with revitalization and official-recognition efforts.
 
-**Corruption context:** n/a / not reliably covered by CPI.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://history.state.gov/historicaldocuments/frus1903/d479
@@ -807,7 +807,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English is the dominant government language; Spanish, Chinese, Tagalog, Vietnamese, Korean, Armenian, and many Indigenous languages are part of the state’s linguistic landscape.
 
-**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
@@ -831,7 +831,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English is the dominant government language; Spanish and Indigenous languages including Diné/Navajo, Apache, O’odham, Hopi, and Yuman languages are historically important.
 
-**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://history.state.gov/milestones/1830-1860/gadsden-purchase
@@ -855,7 +855,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English is the dominant government language; Spanish, Tagalog, Chinese languages, and Indigenous languages including Northern Paiute, Shoshone, and Washoe are part of the state context.
 
-**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
@@ -879,7 +879,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English dominates state government; Spanish and Indigenous languages including Ute, Paiute, Goshute/Shoshone, and Diné/Navajo are part of the state context.
 
-**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
@@ -903,7 +903,7 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English is dominant in state government and public life; Spanish and many Indigenous, immigrant, and refugee-community languages are also part of Oregon's language landscape.
 
-**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://sos.oregon.gov/blue-book/explore/Pages/chronology-1851-1900.aspx
@@ -927,14 +927,13 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 
 **Languages:** English is Colorado's official language under the state constitution; Spanish and Indigenous, immigrant, and regional community languages remain important in daily life.
 
-**Corruption context:** Not applicable/reliably comparable for U.S. states in this pack.
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
 
 **Sources**
 - https://www.colorado.gov/history-colorado
 - https://www.leg.colorado.gov/laws/colorado-constitution
 - https://www.leg.colorado.gov/agencies/office-legislative-legal-services/colorado-constitution
 - https://www.britannica.com/place/Colorado-state
-
 
 ## Washington (`washington`)
 
@@ -960,7 +959,6 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 - https://www.britannica.com/place/Washington-state
 - https://goia.wa.gov/tribal-directory/federally-recognized-indian-tribes
 
-
 ## New Mexico (`new-mexico`)
 
 **Type:** us-state
@@ -984,3 +982,98 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 - https://www.senate.gov/states/NM/timeline.htm
 - https://www.britannica.com/place/New-Mexico
 - https://www.nmlegis.gov/Publications/New_Mexico_Statehood.pdf
+
+## Montana (`montana`)
+
+**Type:** state
+
+**Border history**
+- Indigenous nations, including Blackfeet, Crow, Northern Cheyenne, Salish, Kootenai, Pend d’Oreille, Assiniboine, Sioux, and others, shaped the region long before U.S. territorial lines.
+- The 1846 Oregon Treaty fixed the 49th parallel as the U.S.–British North America boundary west of the Rockies, forming Montana’s future northern international border.
+- Congress created Montana Territory in 1864 out of areas previously attached to Idaho and Dakota territories, reflecting mining rushes and federal territorial administration.
+- Montana became a state in 1889; its later political borders remained mostly stable, while tribal reservations and federal lands continued to shape jurisdiction on the ground.
+
+**Human-cost tags:** indigenous dispossession, treaty, territory, settler colonialism, resource extraction
+
+**Government context:** U.S. state with a constitutionally separated executive, legislative, and judicial government; local governments operate under state law.
+
+**Languages:** English is the official language for state and local government; Indigenous languages and Spanish are among communities’ important living languages.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://montana.gov/discover/brief_history
+- https://courts.mt.gov/External/library/guides/guide.pdf
+- https://mca.legmt.gov/bills/MCA/title_0010/chapter_0010/part_0050/section_0100/0010-0010-0050-0100.html
+
+## North Dakota (`north-dakota`)
+
+**Type:** state
+
+**Border history**
+- The Mandan, Hidatsa, Arikara, Dakota/Lakota, Ojibwe, and other Indigenous peoples lived with trade, river, and kinship geographies that predated U.S. survey lines.
+- Dakota Territory was organized in 1861 and its boundaries changed multiple times before the northern plains were divided into states.
+- North Dakota’s eastern edge follows the Red River, but its other borders are congressional political boundaries rather than natural divisions.
+- In 1889 Congress admitted North Dakota and South Dakota separately, fixing the state’s core outline while reservation, county, and federal land jurisdictions remained consequential.
+
+**Human-cost tags:** indigenous dispossession, territory, treaty, partition, settler colonialism
+
+**Government context:** U.S. state with elected executive officials, a bicameral Legislative Assembly, and a state judiciary under the North Dakota Constitution.
+
+**Languages:** English is the main government language; Dakota/Lakota, Ojibwe, Hidatsa, Mandan, Arikara, Norwegian heritage, German heritage, Spanish, and newer immigrant languages are part of the state’s language landscape.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://www.history.nd.gov/archives/stateagencies/dtrecords.html
+- https://www.ndstudies.gov/gr8/node/65
+- https://www.dmr.nd.gov/ndgs/ndnotes/Boundaries/Boundaries.asp
+
+## South Dakota (`south-dakota`)
+
+**Type:** state
+
+**Border history**
+- Present-day South Dakota was part of the Louisiana Purchase, a paper transfer of imperial claims over lands already governed and used by Native nations.
+- 1861 Dakota Territory organized a large northern-plains territory; later territorial changes and settlement pressure separated Dakota from Nebraska, Wyoming, Montana, and Idaho-era claims.
+- 1868 Fort Laramie Treaty recognized the Great Sioux Reservation west of the Missouri River, but later U.S. actions and agreements broke that land base into smaller reservations.
+- 1889 Enabling Act split Dakota Territory into North Dakota and South Dakota, turning a survey line and federal admission politics into a state boundary.
+
+**Human-cost tags:** indigenous displacement, treaty, reservation, settler colonialism, survey line
+
+**Government context:** U.S. state government with executive, legislative, and judicial branches; governor leads the executive branch and the legislature is bicameral.
+
+**Languages:** English is the state’s common language; the language of the O'ceti Sakowin/Great Sioux Nation—Dakota, Lakota, and Nakota—is recognized as the official indigenous language.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://sdsos.gov/general-information/about-state-south-dakota/
+- https://www.justice.gov/usao-sd/indian-country
+- https://sdlegislature.gov/Statutes/1-27-20
+- https://sdlegislature.gov/Constitution/2-0
+
+## Nebraska (`nebraska`)
+
+**Type:** state
+
+**Border history**
+- Present-day Nebraska sits within the Louisiana Purchase region, where U.S. claims overlaid Native homelands and treaty relationships.
+- 1854 Kansas-Nebraska Act created Nebraska Territory and tied its organization to the national conflict over slavery through popular sovereignty.
+- Nebraska Territory was later reduced as new territories and states were carved from the plains and Rockies, leaving a more compact state along the Missouri River and 40th parallel.
+- 1867 statehood fixed Nebraska’s state frame during Reconstruction-era disputes over suffrage and admission conditions.
+
+**Human-cost tags:** indigenous displacement, treaty, slavery politics, territorial carving, survey line
+
+**Government context:** U.S. state government with executive, judicial, and a distinctive unicameral, officially nonpartisan legislature—the only one-house state legislature in the United States.
+
+**Languages:** English is the state’s official language; Native, immigrant, and refugee languages remain part of Nebraska’s communities even without statewide official status.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://www.archives.gov/milestone-documents/kansas-nebraska-act
+- https://history.nebraska.gov/the-kansas-nebraska-act-and-the-organization-of-nebraska-territory/
+- https://history.nebraska.gov/nebraska-statehood-launched-in-troubled-times/
+- https://www.nebraskalegislature.gov/about/ou_facts.php
+- https://www.nebraskalegislature.gov/laws/articles.php?article=I-27&print=true

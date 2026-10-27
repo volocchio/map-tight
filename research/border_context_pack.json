@@ -1177,6 +1177,113 @@
         "https://www.britannica.com/place/New-Mexico",
         "https://www.nmlegis.gov/Publications/New_Mexico_Statehood.pdf"
       ]
+    },
+    {
+      "id": "montana",
+      "name": "Montana",
+      "type": "state",
+      "border_history": [
+        "Indigenous nations, including Blackfeet, Crow, Northern Cheyenne, Salish, Kootenai, Pend d’Oreille, Assiniboine, Sioux, and others, shaped the region long before U.S. territorial lines.",
+        "The 1846 Oregon Treaty fixed the 49th parallel as the U.S.–British North America boundary west of the Rockies, forming Montana’s future northern international border.",
+        "Congress created Montana Territory in 1864 out of areas previously attached to Idaho and Dakota territories, reflecting mining rushes and federal territorial administration.",
+        "Montana became a state in 1889; its later political borders remained mostly stable, while tribal reservations and federal lands continued to shape jurisdiction on the ground."
+      ],
+      "human_cost_tags": [
+        "indigenous dispossession",
+        "treaty",
+        "territory",
+        "settler colonialism",
+        "resource extraction"
+      ],
+      "government_context": "U.S. state with a constitutionally separated executive, legislative, and judicial government; local governments operate under state law.",
+      "languages": "English is the official language for state and local government; Indigenous languages and Spanish are among communities’ important living languages.",
+      "corruption_context": null,
+      "sources": [
+        "https://montana.gov/discover/brief_history",
+        "https://courts.mt.gov/External/library/guides/guide.pdf",
+        "https://mca.legmt.gov/bills/MCA/title_0010/chapter_0010/part_0050/section_0100/0010-0010-0050-0100.html"
+      ]
+    },
+    {
+      "id": "north-dakota",
+      "name": "North Dakota",
+      "type": "state",
+      "border_history": [
+        "The Mandan, Hidatsa, Arikara, Dakota/Lakota, Ojibwe, and other Indigenous peoples lived with trade, river, and kinship geographies that predated U.S. survey lines.",
+        "Dakota Territory was organized in 1861 and its boundaries changed multiple times before the northern plains were divided into states.",
+        "North Dakota’s eastern edge follows the Red River, but its other borders are congressional political boundaries rather than natural divisions.",
+        "In 1889 Congress admitted North Dakota and South Dakota separately, fixing the state’s core outline while reservation, county, and federal land jurisdictions remained consequential."
+      ],
+      "human_cost_tags": [
+        "indigenous dispossession",
+        "territory",
+        "treaty",
+        "partition",
+        "settler colonialism"
+      ],
+      "government_context": "U.S. state with elected executive officials, a bicameral Legislative Assembly, and a state judiciary under the North Dakota Constitution.",
+      "languages": "English is the main government language; Dakota/Lakota, Ojibwe, Hidatsa, Mandan, Arikara, Norwegian heritage, German heritage, Spanish, and newer immigrant languages are part of the state’s language landscape.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.history.nd.gov/archives/stateagencies/dtrecords.html",
+        "https://www.ndstudies.gov/gr8/node/65",
+        "https://www.dmr.nd.gov/ndgs/ndnotes/Boundaries/Boundaries.asp"
+      ]
+    },
+    {
+      "id": "south-dakota",
+      "name": "South Dakota",
+      "type": "state",
+      "border_history": [
+        "Present-day South Dakota was part of the Louisiana Purchase, a paper transfer of imperial claims over lands already governed and used by Native nations.",
+        "1861 Dakota Territory organized a large northern-plains territory; later territorial changes and settlement pressure separated Dakota from Nebraska, Wyoming, Montana, and Idaho-era claims.",
+        "1868 Fort Laramie Treaty recognized the Great Sioux Reservation west of the Missouri River, but later U.S. actions and agreements broke that land base into smaller reservations.",
+        "1889 Enabling Act split Dakota Territory into North Dakota and South Dakota, turning a survey line and federal admission politics into a state boundary."
+      ],
+      "human_cost_tags": [
+        "indigenous displacement",
+        "treaty",
+        "reservation",
+        "settler colonialism",
+        "survey line"
+      ],
+      "government_context": "U.S. state government with executive, legislative, and judicial branches; governor leads the executive branch and the legislature is bicameral.",
+      "languages": "English is the state’s common language; the language of the O'ceti Sakowin/Great Sioux Nation—Dakota, Lakota, and Nakota—is recognized as the official indigenous language.",
+      "corruption_context": null,
+      "sources": [
+        "https://sdsos.gov/general-information/about-state-south-dakota/",
+        "https://www.justice.gov/usao-sd/indian-country",
+        "https://sdlegislature.gov/Statutes/1-27-20",
+        "https://sdlegislature.gov/Constitution/2-0"
+      ]
+    },
+    {
+      "id": "nebraska",
+      "name": "Nebraska",
+      "type": "state",
+      "border_history": [
+        "Present-day Nebraska sits within the Louisiana Purchase region, where U.S. claims overlaid Native homelands and treaty relationships.",
+        "1854 Kansas-Nebraska Act created Nebraska Territory and tied its organization to the national conflict over slavery through popular sovereignty.",
+        "Nebraska Territory was later reduced as new territories and states were carved from the plains and Rockies, leaving a more compact state along the Missouri River and 40th parallel.",
+        "1867 statehood fixed Nebraska’s state frame during Reconstruction-era disputes over suffrage and admission conditions."
+      ],
+      "human_cost_tags": [
+        "indigenous displacement",
+        "treaty",
+        "slavery politics",
+        "territorial carving",
+        "survey line"
+      ],
+      "government_context": "U.S. state government with executive, judicial, and a distinctive unicameral, officially nonpartisan legislature—the only one-house state legislature in the United States.",
+      "languages": "English is the state’s official language; Native, immigrant, and refugee languages remain part of Nebraska’s communities even without statewide official status.",
+      "corruption_context": null,
+      "sources": [
+        "https://www.archives.gov/milestone-documents/kansas-nebraska-act",
+        "https://history.nebraska.gov/the-kansas-nebraska-act-and-the-organization-of-nebraska-territory/",
+        "https://history.nebraska.gov/nebraska-statehood-launched-in-troubled-times/",
+        "https://www.nebraskalegislature.gov/about/ou_facts.php",
+        "https://www.nebraskalegislature.gov/laws/articles.php?article=I-27&print=true"
+      ]
     }
   ]
 }
