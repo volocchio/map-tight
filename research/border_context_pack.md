@@ -1077,3 +1077,143 @@ Curated short-form context for UI import. Keep copy neutral: borders are histori
 - https://history.nebraska.gov/nebraska-statehood-launched-in-troubled-times/
 - https://www.nebraskalegislature.gov/about/ou_facts.php
 - https://www.nebraskalegislature.gov/laws/articles.php?article=I-27&print=true
+
+## Kansas (`kansas`)
+
+**Type:** us-state
+
+**Border history**
+- 1803 Louisiana Purchase brought the area claimed by France under U.S. control, while Native nations retained homelands and treaty rights that settlers and federal policy increasingly constrained.
+- 1854 Kansas-Nebraska Act organized Kansas Territory and used popular sovereignty for slavery, turning the Missouri border region into the violent Bleeding Kansas conflict.
+- 1861 Kansas entered the Union as a free state shortly before the Civil War, fixing its statehood against the backdrop of sectional conflict.
+- Modern Kansas borders follow survey lines and river segments, but the state still reflects older Indigenous removals, railroad settlement, and border-war memory.
+
+**Human-cost tags:** indigenous displacement, slavery conflict, settler colonialism, civil war, survey borders
+
+**Government context:** U.S. state with an elected governor and bicameral legislature; counties and municipalities handle many local services under state law.
+
+**Languages:** English is the dominant official/public language; Spanish, Vietnamese, German heritage varieties, and Native languages including Kanza/Kaw revitalization contexts are part of the wider language landscape.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://www.kansashistory.gov/
+- https://home.nps.gov/articles/bleeding-kansas.htm
+- https://sos.ks.gov/Pubs/Publications/KTAN.pdf
+
+## Oklahoma (`oklahoma`)
+
+**Type:** us-state
+
+**Border history**
+- Indian Territory grew from U.S. removal policy that forced many Native nations west of the Mississippi, layering sovereign tribal histories into the future state.
+- 1887 Dawes Act allotment and later land openings broke up collectively held tribal lands and accelerated non-Native settlement in and around Oklahoma Territory.
+- 1906 Oklahoma Enabling Act and 1907 statehood merged Oklahoma Territory and Indian Territory into one state instead of separate or Sequoyah-style Indigenous-led statehood.
+- Today Oklahoma's map coexists with federally recognized tribal nations and jurisdictional debates shaped by treaties, allotment, and court rulings.
+
+**Human-cost tags:** indigenous displacement, treaty rights, allotment, settler colonialism, statehood
+
+**Government context:** U.S. state with an elected governor and bicameral legislature; tribal governments also exercise sovereign powers within treaty and federal-law frameworks.
+
+**Languages:** English dominates public life; many Native languages including Cherokee, Choctaw, Chickasaw, Muscogee, Seminole, Osage, Comanche, Kiowa, and others have community and revitalization roles; Spanish is also widely used.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://www.archives.gov/legislative/features/oklahoma
+- https://www.okhistory.org/publications/enc/entry.php?entryname=STATEHOOD+MOVEMENT
+- https://www.okhistory.org/learn/government5
+
+## Arkansas (`arkansas`)
+
+**Type:** us-state
+
+**Border history**
+- 1803 Louisiana Purchase transferred French-claimed land to the United States, accelerating U.S. control over the lower Mississippi borderlands.
+- 1819 Arkansas Territory was separated from Missouri Territory; its western line was later adjusted as Indian Territory and U.S. settlement policy evolved.
+- 1830s Indian Removal reshaped Arkansas by forcing Native peoples out of ancestral lands and routing removed eastern nations through or beyond the state.
+- 1836 statehood and later Civil War/Reconstruction politics fixed Arkansas as a slave-state borderland whose Mississippi River edge tied it to regional trade and conflict.
+
+**Human-cost tags:** indigenous displacement, slavery, territorial partition, civil war, river borders
+
+**Government context:** U.S. state with an elected governor and bicameral legislature; county governments remain important for local administration.
+
+**Languages:** English dominates public life; Spanish, Marshallese, Vietnamese, and Native language heritage contexts are part of the broader language landscape.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://encyclopediaofarkansas.net/entries/Louisiana-Purchase-2383/
+- https://encyclopediaofarkansas.net/entries/Indian-Removal-2595/
+- https://encyclopediaofarkansas.net/entries/louisiana-purchase-through-early-statehood-1803-through-1860-398/
+
+## Missouri (`missouri`)
+
+**Type:** us-state
+
+**Border history**
+- Present-day Missouri was within the Louisiana Purchase, where U.S. claims overlaid Indigenous nations’ lands, trade routes, and treaty relationships.
+- 1812 Missouri Territory was organized from the former Louisiana Territory, then later reduced as Arkansas and other western lands were separated.
+- 1820 Missouri Compromise tied Missouri’s admission as a slave state to Maine’s admission as a free state and a slavery restriction north of 36°30′ in much of the Louisiana Purchase.
+- 1821 statehood fixed Missouri’s basic outline, while the Missouri River, Mississippi River, and later border-war politics kept the state tied to both western expansion and Civil War conflict.
+
+**Human-cost tags:** indigenous displacement, slavery politics, territorial partition, settler colonialism, civil war
+
+**Government context:** U.S. state with an elected governor, bicameral General Assembly, and state judiciary; counties and municipalities exercise powers under state law.
+
+**Languages:** English is the dominant language of public life; Spanish, Bosnian, German heritage varieties, and Native language heritage contexts are part of Missouri’s wider language landscape.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://www.sos.mo.gov/Archives/Bicentennial/Summary
+- https://www.loc.gov/item/today-in-history/august-10/
+- https://www.senate.gov/states/MO/timeline.shtml
+
+## Iowa (`iowa`)
+
+**Type:** us-state
+
+**Border history**
+- Present-day Iowa was part of the Louisiana Purchase, but Native nations’ homelands and treaty relationships predated and outlasted U.S. paper claims.
+- 1832 Black Hawk War and subsequent land cessions opened large areas west of the Mississippi to U.S. settlement under coercive conditions.
+- 1838 Congress created Iowa Territory from Wisconsin Territory; early proposals and voter debates over boundaries shaped the eventual state outline.
+- 1846 statehood made Iowa the 29th state after boundary compromises; its Missouri and Mississippi river edges contrast with surveyed northern and western lines.
+
+**Human-cost tags:** indigenous displacement, treaty, territorial partition, settler colonialism, survey borders
+
+**Government context:** U.S. state with executive, legislative, and judicial departments under the Iowa Constitution; local governments operate within state constitutional and statutory frameworks.
+
+**Languages:** English is Iowa’s official language for state government; Spanish, Arabic, Bosnian, Vietnamese, Native language heritage contexts, and other community languages are also present.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://history.iowa.gov/learn/k-12-education/professional-learning/iowa-history-course/unit-3-iowa-statehood
+- https://www.iowacourts.gov/for-the-public/educational-resources-and-services/iowa-courts-history
+- https://www.legis.iowa.gov/law/statutory/constitution
+- https://www.legis.iowa.gov/docs/code/2014/Vol1.pdf
+
+## Louisiana (`louisiana`)
+
+**Type:** us-state
+
+**Border history**
+- French and Spanish colonial claims around the lower Mississippi overlaid Native nations’ lands and long-running Indigenous, African, and European borderland histories.
+- 1803 Louisiana Purchase transferred French imperial claims to the United States, with New Orleans and Mississippi River access central to U.S. strategy.
+- The Territory of Orleans was governed separately from the larger District/Territory of Louisiana before admission as the state of Louisiana in 1812.
+- Louisiana’s borders and identity were shaped by river commerce, plantation slavery, Creole/Cajun cultures, Civil War occupation, and later coastal change along the Gulf.
+
+**Human-cost tags:** colonialism, indigenous displacement, slavery, river borders, coastal change
+
+**Government context:** U.S. state with an elected governor, bicameral legislature, and judiciary; Louisiana’s civil-law tradition distinguishes parts of its legal system from other U.S. states.
+
+**Languages:** English is dominant in state government; Louisiana French, Louisiana Creole/Kouri-Vini, Spanish, Vietnamese, and Native language heritage contexts remain culturally important.
+
+**Corruption context:** Not applicable/reliably comparable for this entry in this pack.
+
+**Sources**
+- https://www.archives.gov/legislative/features/louisiana-statehood
+- https://history.state.gov/milestones/1801-1829/louisiana-purchase
+- https://louisianastatemuseum.org/louisiana-history-louisiana-purchase
+- https://www.sos.la.gov/HistoricalResources/PublishedDocuments/LouisianaFactsBooklet.pdf
